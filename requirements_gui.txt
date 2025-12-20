@@ -1,0 +1,5 @@
+setuptools
+six
+Gooey
+python-pcre
+ZZZH
