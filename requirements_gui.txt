@@ -1,5 +1,4 @@
 setuptools
 six
 Gooey
-python-pcre
-ZZZH
+#python-pcre
