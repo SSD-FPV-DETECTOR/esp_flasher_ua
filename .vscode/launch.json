@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}"
+        },
+        {
+            "name": "Python Debugger: Python File with args",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["--read-mac", "--write-flash"]
+        }
+    ]
+}
